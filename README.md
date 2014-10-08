@@ -1,6 +1,6 @@
 # TV Shows Manager
 
-> A playground application to learn and experiment NodeJS, Express AngularJS and MongoDB !
+> This is a playground application to learn and experiment NodeJS, Express, AngularJS and MongoDB !
 
 ## Guidelines
 
