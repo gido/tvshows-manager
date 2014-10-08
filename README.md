@@ -6,6 +6,8 @@
 
 Each new features and modifications have to be well documented in an issue, commit or inside the wiki.
 
+Check the [Journey](https://github.com/Frontend/tvshows-manager/wiki/Journey) !
+
 ## Setup
 
 You will need :
@@ -26,7 +28,7 @@ Run the app (in parallel) :
 
 ```shell
 $ mongod
-$ grunt
+$ grunt serve
 ```
 
 and open [localhost:9000](http://localhost:9000) in your favorite browser !
